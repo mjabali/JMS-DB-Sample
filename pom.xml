@@ -163,7 +163,6 @@
                            javax.xml.transform,
                            org.apache.commons.dbcp,
                            org.apache.activemq.xbean,
-                           org.apache.servicemix.util,
                            org.springframework.beans.factory.config,
                            *
                         </Import-Package>
